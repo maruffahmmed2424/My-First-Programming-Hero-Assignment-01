@@ -390,18 +390,6 @@ body {
 .contact-form button:hover {
   background: #3730a3;
 }
-
-@media (max-width: 800px) {
-  .contact-container {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 32px;
-    padding: 32px 16px;
-  }
-  .contact-title {
-    font-size: 2rem;
-  }
-}
 body {
   background: #fafbff;
   margin: 0;
